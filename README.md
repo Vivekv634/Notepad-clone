@@ -5,7 +5,7 @@ This repository houses a lightweight notepad clone developed in Python, providin
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekv634/Notepad-clone?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/vivekv634/Notepad-clone?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivekv634/Notepad-clone?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/vivekv634/Notepad-clone?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/vivekv634/notepad-clone?style=for-the-badge)
 
 
 ## 🗝️ Key Features
