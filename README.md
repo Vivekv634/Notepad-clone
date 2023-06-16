@@ -17,10 +17,13 @@ This repository houses a lightweight notepad clone developed in Python, providin
 
 ## ⚙️ How to use
 * Clone the repository to your computer. Ensure that you have installed [Python](https://python.org), [Git](https://git-scm.com) and [VS Code](https://code.visualstudio.com/download). After that paste the below line in the **Source Control Repositories** section under the **Source Control** Panel in VS Code.
- ```bash
- git clone https://github.com/Vivekv634/EMS-cpp.git
- ```
-* Install the required dependencies by running 'pip install -r requirements.txt'.
+  ```bash
+  git clone https://github.com/Vivekv634/Notepad-clone.git
+  ```
+* Install the required dependencies by running the below line in the command prompt of the folder location.
+  ```bash
+  pip install -r requirements.txt
+  ```
 * Open the 'main.py' in the VS Code and run the file.
 * Start creating, editing, and saving your documents effortlessly!
 
